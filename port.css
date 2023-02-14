@@ -1,0 +1,18 @@
+.mainMenu {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainMenu ul{
+    display: flex;
+    list-style: none;
+    margin:20px 0px;
+}
+.mainMenu ul li{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 20px;
+    font-size: bold;
+}
